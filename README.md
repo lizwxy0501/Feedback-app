@@ -8,9 +8,17 @@ Deployed at Netlify, try to visit it at https://main--feedback-liz-app.netlify.a
 
 
 **Technologies Used
+
+
 React
+
+
 HTML
+
+
 CSS
+
+
 JavaScript**
 
 
