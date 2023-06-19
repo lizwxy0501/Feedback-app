@@ -5,10 +5,15 @@ A user-friendly feedback UI for collecting feedback on websites or applications.
 The UI features a set of 10 rating icons that represent various levels of satisfaction, 
 enabling users to easily click on the icon that best reflects their feedback. 
 
+
+
+
 **Demo**
 
 
 Deployed at Netlify, try to visit it at https://main--feedback-liz-app.netlify.app/
+
+
 
 
 **Technologies Used**
@@ -24,6 +29,8 @@ CSS
 
 
 JavaScript
+
+
 
 
 
