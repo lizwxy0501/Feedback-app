@@ -11,7 +11,7 @@ enabling users to easily click on the icon that best reflects their feedback.
 **Demo**
 
 
-Deployed at Netlify, try to visit it at https://main--feedback-liz-app.netlify.app/
+Deployed at Netlify, try to visit it: https://main--feedback-liz-app.netlify.app/
 
 
 
