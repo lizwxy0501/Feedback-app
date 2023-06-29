@@ -1,7 +1,7 @@
 {
   "name": "feedback-app",
   "version": "0.1.0",
-  "homepage":"https://github.com/lizwxy0501/Feedback-app/",
+  "homepage":"https://github.com/lizwxy0501/Feedback-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
