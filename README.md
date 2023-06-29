@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+#This app uses json.db for a fake database
+#step 1: run json server(json-server --watch db.json --port 5000), so the app can get data from json.db
+#step 2: npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
