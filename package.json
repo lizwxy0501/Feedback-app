@@ -1,7 +1,7 @@
 {
   "name": "feedback-app",
   "version": "0.1.0",
-  "homepage":"https://github.com/lizwxy0501/Feedback-app",
+  "homepage": "https://github.com/lizwxy0501/Feedback-app",
   "private": true,
   "proxy": "http://localhost:5000/",
   "dependencies": {
