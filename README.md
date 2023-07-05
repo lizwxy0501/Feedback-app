@@ -19,6 +19,8 @@ Deployed at Netlify, try to visit it: https://main--feedback-liz-app.netlify.app
 
 **Technologies Used**
 
+JavaScript
+
 
 React
 
@@ -29,7 +31,6 @@ HTML
 CSS
 
 
-JavaScript
 
 
 
